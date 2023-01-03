@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1E0094403080Fb543994765c7bD24275b0C338a8",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x1E0094403080Fb543994765c7bD24275b0C338a8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Morph DNAs",
+  "SYMBOL": "MORPHDNA",
+  "MAX_SUPPLY": 8088,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/morph-dnas-v4",
+  "SHOW_BACKGROUND": true
+}
